@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD</string>
+
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect! Try again.</string>
+    <string name="equation">Conjunction Table(AND)</string>
+</resources>
